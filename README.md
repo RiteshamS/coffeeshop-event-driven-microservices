@@ -1,4 +1,4 @@
-#coffeeshop-event-driven-microservices
+# coffeeshop-event-driven-microservices
 
 An event-driven microservices coffee shop application has been written in Golang and deployed using Nomad, Consul Connect, Vault, and Terraform.
 
